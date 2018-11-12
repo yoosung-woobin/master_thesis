@@ -9,7 +9,7 @@ There are three Jupyter Notebook files uploaded regarding the thesis.
 1. <> is for deriving the test-bed results of GLM with penalization and PLS which are directly inspired by 
 *Feng, He, and Polson (2018)*.
 
-2. <> provides steps for producing MLP result, as well as LSTM prediction result. MLP combined with models from 1 
+2. <MasterThesis_NN_ver17(PC).ipynb> provides steps for producing MLP result, as well as LSTM prediction result. MLP combined with models from 1 
 serves as test bed against LSTM to explore the possibility of applying LSTM to asset return prediction in macroeconomic level
 
 3. <> provides codes for producing summary tables and figures used in the thesis.
